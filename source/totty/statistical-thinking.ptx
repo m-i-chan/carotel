@@ -2,7 +2,7 @@
 <section xml:id="statistical-thinking-activity">
     <title>Statistics for the Natural Sciences: Statistical Thinking</title>
     <introduction>
-        <p> This is an assignment for students enrolled in an introductory statistics course for students pursuing a natural science degree.</p>
+        <p> This is an assignment for an introductory statistics course focused on students pursuing a degree in the natural sciences.</p>
     </introduction>
   <subsection xml:id="sec-objectives">
     <title>Objectives</title>
@@ -38,7 +38,7 @@
   </tabular>
 </table>
 
-    <exercise>
+    <exercise number=1>
       <statement>
         <p>
           Calculate the proportions of the control group and the treatment group who became sick, and compare the proportions. Which group had a higher rate of sickness?
@@ -131,7 +131,15 @@
       </statement>
     </exercise>
   </subsection>
-    <conclusion>
+  <subsection xml:id="sec-Strawberry8">
+    <title>NACE Competencies</title>
+
+    <p>
+      This assignment fulfills NACE competencies XXX (for more information on NACE competencies, please see the document titled 'NACE Competencies').
+    </p>
+  </subsection>
+
+  <conclusion>
     <p>
       This assignment was created by Njesa Totty for the CA-ROTEL PreTeXt Working Group at Framingham State University. It is licensed under a BY-NC-SA Creative Commons license.
     </p>
