@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section xml:id="sec-strawberry-dna-extraction-lab">
-    <title>Molecular Biology: Strawberry DNA Extraction Lab</title>
+    <title>Molecular Biology: Strawberry DNA Extraction</title>
     <introduction>
         <p> This is a sample lab experiment and assignment for students enrolled in a molecular biology course.</p>
+  </introduction>
+  <subsection xml:id="sec-Strawberry-intro">
+    <title>Introduction</title>
     <p>
       Welcome to Molecular Biology! This semester we will be focusing heavily on DNA, and on how DNA is maintained, replicated, and transcribed. As such, it only makes sense that your first lab experience would involve extracting DNA from an organism, in this case; strawberries. Unfortunately, your professor is not as nice as she seems! She intentionally changed some of the instructions in this experiment, causing catastrophic results. It is your job to conduct the experiment, view the results, and form a scientific hypothesis as to what may be wrong with the instructions. You must then create and perform a new protocol that will improve your DNA extraction. 
     </p>
-  </introduction>
+  </subsection>
+
   
   <!-- Include chapters -->
   <subsection xml:id="sec-Strawberry2">
@@ -151,5 +155,15 @@
       This assignment fulfills NACE competencies 1, 2, 3, 6, 7, and 8 (for more information on NACE competencies, please see the document titled 'NACE Competencies').
     </p>
   </subsection>
-
+  <conclusion>
+    <p>
+      This assignment was created by Rachel Avard for the CA-ROTEL PreTeXt Working Group at Framingham State University. It is licensed under a BY-NC-SA Creative Commons license.
+    </p>
+    <!--<figure xml:id="cc-by-nc-sa">
+            <caption>Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International</caption>-->
+            <image width="20%" source="by-nc-sa.png">
+                <shortdescription>CC BY-NC-SA</shortdescription>
+            </image>
+    <!--</figure>-->
+  </conclusion>
 </section>
