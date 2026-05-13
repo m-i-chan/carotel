@@ -16,11 +16,13 @@
   <!--<xi:include href="./introduction.ptx" />-->
     <xi:include href="./carotel-and-pretext.ptx" />
     <xi:include href="./avard/nace-competencies.ptx" />
-    <xi:include href="./atchison/integral-calculus.ptx" />
     <xi:include href="./avard/strawberry-dna-extraction.ptx" />
     <xi:include href="./brinkman/introduction-to-digital-humanities.ptx" />
+    <xi:include href="./coyne/white-space.ptx" />
     <xi:include href="./nierintz/mental-health-counseling-practicum.ptx" />
-<!--    <xi:include href="./cataldo/.ptx" />
+    <xi:include href="./atchison/integral-calculus.ptx" />
+<!--
+    <xi:include href="./cataldo/.ptx" />
     <xi:include href="./coyne/.ptx" />
     <xi:include href="./gao/.ptx" />
     <xi:include href="./gentry/.ptx" />
