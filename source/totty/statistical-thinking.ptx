@@ -2,7 +2,7 @@
 <section xml:id="statistical-thinking-activity">
     <title>Statistics for the Natural Sciences: Statistical Thinking</title>
     <introduction>
-        <p> This is an assignment for an introductory statistics course focused on students pursuing a degree in the natural sciences.</p>
+        <p> This is an assignment for an introductory statistics course intendend for students pursuing a degree in the natural sciences.</p>
     </introduction>
   <subsection xml:id="sec-objectives">
     <title>Objectives</title>
@@ -13,7 +13,7 @@
    <p>The below table reports the number of people who became very sick after contracting an illness, broken out by if they took a particular drug. We will refer to those who took the drug as the treatment group, and those who did not take the drug as the control group. Note that the drug was not randomly assigned in this setting. <alert>Does this drug work? </alert></p>
 
 <table xml:id="table-drug-data">
-<title/>
+<title>Drug Treatment and Sickness</title>
   <tabular>
     <row>
       <cell></cell>
@@ -59,7 +59,7 @@
       <p>One additional factor we have access to is the age (younger or older) of the people. Below is a table that includes the data disaggregated by age group.</p>
 
         <table xml:id="table-age-drug">
-<title/>
+<title>Drug Treatment, Age, and Sickness</title>
   <tabular>
     <!-- Top header row -->
     <row>
