@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xml:id="intro-to-functions">
+    <title>Introduction to Functions: Quiz</title>
+    <introduction>
+        <p> This is a sample assessment for an introduction to functions course.</p>
+    </introduction>
+   <subsection>
+      <title>Problem 1</title>
+      <p>
+        Convert the following quadratic function to vertex form (<m> f(x)=a(x-h)^2+k  </m>).  State the vertex.  Further, state the domain and range.  
+
+        <me> f(x)=x^2+12x-15</me>
+      </p>
+    </subsection>
+
+    <subsection>
+    <title>Problem 2</title>
+      <p>
+        Solve the following system of equations.  
+        <md>
+          <mrow>\frac{1}{2}x+\frac{1}{3}y \amp = \frac{1}{3}</mrow>
+          <mrow>\frac{3}{2}x+\frac{1}{4}y \amp = -\frac{1}{8}</mrow>
+        </md>
+      </p>
+    </subsection>
+   <subsection>
+    <title>Problem 3</title>
+        <p>
+          For each table below, determine whether the data represent a linear function. 
+          If it is linear, write a linear function <m>f(x)=mx+b</m> for the data in the table.
+          <ol>
+            <li>
+              <!-- <p> -->
+                <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>2</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>5</cell>
+                </row>
+                <row>
+                  <cell>2</cell>
+                  <cell>8</cell>
+                </row>
+                <row>
+                  <cell>3</cell>
+                  <cell>11</cell>
+                </row>
+              </tabular>
+              <!-- </p> -->
+            </li>
+            <li>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>4</cell>
+                </row>
+                <row>
+                  <cell>2</cell>
+                  <cell>10</cell>
+                </row>
+                <row>
+                  <cell>5</cell>
+                  <cell>19</cell>
+                </row>
+                <row>
+                  <cell>9</cell>
+                  <cell>31</cell>
+                </row>
+              </tabular>
+            </li>
+            <li>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>1</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>4</cell>
+                </row>
+                <row>
+                  <cell>2</cell>
+                  <cell>9</cell>
+                </row>
+                <row>
+                  <cell>3</cell>
+                  <cell>16</cell>
+                </row>
+              </tabular>
+            </li>
+            <li>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>-2</cell>
+                  <cell>-8</cell>
+                </row>
+                <row>
+                  <cell>-1</cell>
+                  <cell>-2</cell>
+                </row>
+                <row>
+                  <cell>0</cell>
+                  <cell>4</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>11</cell>
+                </row>
+              </tabular>
+            </li>
+            <li>
+              <tabular halign="right">
+                <row header="yes" bottom="minor" >
+                  <cell><m>x</m></cell>
+                  <cell><m>f(x)</m></cell>
+                </row>
+                <row>
+                  <cell>-3</cell>
+                  <cell>12</cell>
+                </row>
+                <row>
+                  <cell>-1</cell>
+                  <cell>6</cell>
+                </row>
+                <row>
+                  <cell>1</cell>
+                  <cell>0</cell>
+                </row>
+                <row>
+                  <cell>3</cell>
+                  <cell>-6</cell>
+                </row>
+              </tabular>
+            </li>
+            
+          </ol>
+        </p>
+  </subsection>
+
+  <subsection>
+    <title>Problem 4</title>
+    <p> Sketch a graph of the following piecewise function. 
+      <me>
+      f(x) = \begin{cases}
+        5x \amp x\le 0 \\
+        3 \amp 0\leq x \leq 2 \\
+        x^2 \amp x \ge 2 \\
+      \end{cases}
+      </me>
+      </p>
+    </subsection>
+
+    <subsection>
+    <title>Problem 5</title>
+      <p>
+       Write a formula for the quadratic function pictured below.
+       </p>
+       <image source="qplot1.png" width="25%">
+    <shortdescription>A parabola.</shortdescription>
+    <description>
+        <p>
+            A downward-opening parabola.
+        </p>
+    </description>
+</image>
+ <subsection xml:id="subsec-staniszewski-nace-competencies">
+    <title>NACE Competencies</title>
+        <p>The National Association of Colleges and Employers have identified eight <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined#competencies">core competencies</url> that help individuals to develop career readiness. This assignment will give students an opportunity to focus on three of these competencies in particular.</p>
+    <p>
+        <ul>
+        <li>
+            <p><em>Career and Self-Development</em>: Proactively develop oneself and one’s career through continual personal and professional learning, awareness of one’s strengths and weaknesses, navigation of career opportunities, and networking to build relationships within and without one’s organization.</p>
+            <p>Students will become aware of their own strengths and areas for continued growth.</p>
+        </li>
+        <li>
+            <p><em>Communication</em>: Clearly and effectively exchange information, ideas, facts, and perspectives with persons inside and outside of an organization.</p>   
+            <p>Students are communicing difficult topics using terminology and notation from the field.</p>
+        </li>
+        <li>
+            <p><em>Critical Thinking</em>: Identify and respond to needs based upon an understanding of situational context and logical analysis of relevant information.</p>
+            <p>Can't do mathematics without it!</p>
+        </li>
+        </ul>
+    </p>
+    </subsection>
+ <conclusion>
+    <p>
+      This assignment was created by Christopher Staniszewski for the CA-ROTEL PreTeXt Working Group at Framingham State University. It is licensed under a BY-NC-SA Creative Commons license.
+    </p>
+    <!--<figure xml:id="cc-by-nc-sa">
+            <caption>Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International</caption>-->
+            <image width="20%" source="by-nc-sa.png">
+                <shortdescription>CC BY-NC-SA</shortdescription>
+            </image>
+    <!--</figure>-->
+  </conclusion>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+  </section>
+
+  
+
+
+
+
+
