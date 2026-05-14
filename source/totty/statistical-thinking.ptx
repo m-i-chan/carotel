@@ -38,8 +38,7 @@
   </tabular>
 </table>
 
-    <exercises>
-      <exercise>
+    <exercise>
       <statement>
         <p>
           Calculate the proportions of the control group and the treatment group who became sick, and compare the proportions. Which group had a higher rate of sickness?
@@ -54,7 +53,7 @@
         </p>
       </statement>
     </exercise>
-    </exercises>
+
   </subsection>
    <subsection xml:id="sec-including-more-data">
     <title>Including More Data</title>
