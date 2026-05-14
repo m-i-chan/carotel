@@ -38,13 +38,15 @@
   </tabular>
 </table>
 
-    <question>
+    <exercises>
+      <exercise>
       <statement>
         <p>
           Calculate the proportions of the control group and the treatment group who became sick, and compare the proportions. Which group had a higher rate of sickness?
         </p>
       </statement>
-    </question>
+    </exercise>
+    </exercises>
 
     <question>
       <statement>
