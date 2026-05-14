@@ -5,9 +5,9 @@
     <introduction>
         <p> This is a sample assessment for an introduction to functions course.</p>
     </introduction>
-  <subsection xml:id="sec-exercises">
-  <title>Exercises</title>
- <!--<exercises>-->
+<!--  <subsection xml:id="sec-exercises">
+  <title>Exercises</title>-->
+ <exercises>
   <exercise>
     <p>
       Create a table with at least two points. Then state the <em>domain</em>, <em>range</em>, and the equation of the <em>horizontal asymptote</em>.
@@ -149,9 +149,9 @@
     </task>
     </p>
   </exercise>
+</exercises>
 
-<!--</exercises>-->
-</subsection>
+<!--</subsection>-->
 
  <subsection xml:id="sec-morabito-nace">
     <title>NACE Competencies</title>
