@@ -141,6 +141,7 @@
         listing="no"
         list="no"
         question="no"
+        exercise="no"
         exercise-inline="no"
         exercise-divisional="no"
         exercise-worksheet="no"
